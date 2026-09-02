@@ -1,0 +1,26 @@
+
+UnityProject/Assets/ProjectSettings/ProjectVersion.txt
+
+UnityProject/Assets/Temp/UnityLockfile
+
+UnityProject/Assembly-CSharp-Editor.csproj
+
+UnityProject/Assembly-CSharp.csproj
+
+UnityProject/Library/
+
+UnityProject/Assets/_Game/SO's/Switch Activate.anim
+
+UnityProject/Logs/
+
+UnityProject/Temp/
+
+UnityProject/Assets/Houdini/backup/
+
+UnityProject/Packages/manifest.json
+
+UnityProject/Packages/packages-lock.json
+
+UnityProject/Recordings/
+
+*.uproject
