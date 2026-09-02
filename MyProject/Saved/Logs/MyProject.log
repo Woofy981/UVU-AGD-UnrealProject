@@ -2009,3 +2009,669 @@ LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - d
 [2026.09.02-21.54.15:646][ 60]LogAssetRegistry: Display: Asset registry cache written as 121.5 MiB to ../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Intermediate/CachedAssetRegistry/CachedAssetRegistry_*.ref
 [2026.09.02-21.54.15:649][ 60]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
 [2026.09.02-21.54.15:649][ 60]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 1 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.09.02-21.56.04:658][398]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' with subface index 0 in Game thread.
+[2026.09.02-21.56.04:658][398]LogSlate: Display: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K) on Game thread.
+[2026.09.02-21.56.04:658][398]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' subface 0 in Game thread.
+[2026.09.02-21.56.04:658][398]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.09.02-21.56.06:232][488]Cmd: DELETE
+[2026.09.02-21.56.06:232][488]Cmd: ACTOR DELETE
+[2026.09.02-21.56.06:250][488]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.56.06:308][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.09.02-21.56.06:310][488]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2026.09.02-21.56.08:455][610]Cmd: DELETE
+[2026.09.02-21.56.08:455][610]Cmd: ACTOR DELETE
+[2026.09.02-21.56.08:456][610]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.56.08:491][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.09.02-21.56.08:493][610]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.09.02-21.56.09:443][665]Cmd: DELETE
+[2026.09.02-21.56.09:443][665]Cmd: ACTOR DELETE
+[2026.09.02-21.56.09:444][665]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.56.09:486][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.09.02-21.56.09:488][665]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2026.09.02-21.56.10:566][728]Cmd: DELETE
+[2026.09.02-21.56.10:566][728]Cmd: ACTOR DELETE
+[2026.09.02-21.56.10:567][728]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.56.10:608][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.09.02-21.56.10:610][728]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2026.09.02-21.56.11:599][784]Cmd: DELETE
+[2026.09.02-21.56.11:599][784]Cmd: ACTOR DELETE
+[2026.09.02-21.56.11:600][784]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.56.11:634][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.09.02-21.56.11:637][784]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.09.02-21.56.24:452][548]Cmd: ACTOR SELECT ALL
+[2026.09.02-21.56.32:233][ 10]LogDerivedDataCache: C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:30.037 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16293 files in 16323 folders with total size 328 MiB.
+[2026.09.02-21.56.33:968][114]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.09.02-21.56.37:732][336]Cmd: TRANSACTION UNDO
+[2026.09.02-21.56.37:732][336]LogEditorTransaction: Undo Clicking on Elements
+[2026.09.02-21.56.38:622][364]Cmd: TRANSACTION UNDO
+[2026.09.02-21.56.38:622][364]LogEditorTransaction: Undo Select All
+[2026.09.02-21.56.40:554][479]Cmd: ACTOR SELECT ALL
+[2026.09.02-21.57.14:264][481]Cmd: DELETE
+[2026.09.02-21.57.14:264][481]Cmd: ACTOR DELETE
+[2026.09.02-21.57.14:266][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:267][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:267][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:268][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:269][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:269][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:270][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:270][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:271][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:271][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:272][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:272][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:273][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:274][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:274][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:275][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:275][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:276][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:276][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:277][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:277][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:277][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:278][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:278][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:279][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:279][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:280][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:281][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:281][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:282][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:282][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:283][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:283][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:284][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:284][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:285][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:285][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:286][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:286][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:287][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:287][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:288][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:288][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:289][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:289][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:290][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:290][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:291][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.02-21.57.14:332][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.09.02-21.57.14:337][481]LogEditorActor: Deleted 48 Actors (0.074 secs)
+[2026.09.02-21.57.23:840][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.02-21.57.24:008][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.09.02-21.57.24:053][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.09.02-21.57.24:097][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.09.02-21.57.24:118][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 277.098 ms
+[2026.09.02-21.57.24:128][ 46]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.02-21.59.51:897][597]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 344.196869
+[2026.09.02-21.59.52:896][599]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.02-21.59.52:896][599]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 344.863098, Update Interval: 320.823395
+[2026.09.02-21.59.58:877][914]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.09.02-21.59.59:571][955]Cmd: TRANSACTION UNDO
+[2026.09.02-21.59.59:571][955]LogEditorTransaction: Undo Transform
+[2026.09.02-22.00.06:024][319]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.09.02-22.00.11:617][652]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.09.02-22.00.15:822][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.02-22.00.15:970][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.09.02-22.00.16:045][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.09.02-22.00.16:066][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.09.02-22.00.16:067][903]LogFileHelpers: Saving Package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626
+[2026.09.02-22.00.16:079][903]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626
+[2026.09.02-22.00.16:079][903]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/Q7CPP7VHOXBAMAJI90W62606B6AB9E4024AFC0E0B844978059F667.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset'
+[2026.09.02-22.00.16:098][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 275.986 ms (total: 553.084 ms)
+[2026.09.02-22.00.16:203][903]LogContentValidation: Enabled validators:
+[2026.09.02-22.00.16:204][903]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.02-22.00.16:204][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.02-22.00.16:204][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.02-22.00.16:204][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.02-22.00.16:204][903]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.02-22.00.16:204][903]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.02-22.00.16:204][903]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.02-22.00.16:204][903]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.02-22.00.16:204][903]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.02-22.00.16:204][903]LogContentValidation: Display: Starting to validate 1 assets (1 associated objects such as actors)
+[2026.09.02-22.00.16:204][903]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.02-22.00.16:205][903]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.09.02-22.00.16:205][903]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.02-22.00.16:205][903]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.02-22.00.16:205][903]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.02-22.00.16:205][903]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.02-22.00.16:205][903]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.02-22.00.16:205][903]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.02-22.00.16:205][903]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.02-22.00.16:205][903]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.02-22.00.16:205][903]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.02-22.00.16:205][903]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.02-22.00.16:221][903]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.02-22.00.22:743][288]LogPSOHitching: Encountered 200 PSO creation hitches so far (54 graphics, 146 compute). 0 of them were precached.
+[2026.09.02-22.00.23:415][320]LogStreaming: Display: FlushAsyncLoading(431): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.02-22.03.01:505][969]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.09.02-22.03.07:947][355]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.09.02-22.03.13:148][665]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.09.02-22.03.17:203][906]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.09.02-22.03.24:250][323]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.09.02-22.03.24:281][323]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.09.02-22.03.26:000][425]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.09.02-22.03.32:568][810]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.09.02-22.05.12:178][748]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.09.02-22.05.17:366][ 53]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 669.664185
+[2026.09.02-22.05.17:489][ 62]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.02-22.05.17:489][ 62]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 669.770691, Update Interval: 305.396271
+[2026.09.02-22.06.15:287][513]Cmd: TRANSACTION UNDO
+[2026.09.02-22.06.15:288][513]LogEditorTransaction: Undo Transform
+[2026.09.02-22.08.14:217][509]Cmd: TRANSACTION UNDO
+[2026.09.02-22.08.14:217][509]LogEditorTransaction: Undo Transform
+[2026.09.02-22.08.22:673][980]Cmd: TRANSACTION UNDO
+[2026.09.02-22.08.22:674][980]LogEditorTransaction: Undo Transform
+[2026.09.02-22.08.25:645][134]Cmd: TRANSACTION UNDO
+[2026.09.02-22.08.25:645][134]LogEditorTransaction: Undo Duplicate and Transform
+[2026.09.02-22.08.30:716][431]Cmd: TRANSACTION UNDO
+[2026.09.02-22.08.30:716][431]LogEditorTransaction: Undo Transform
+[2026.09.02-22.08.31:661][464]Cmd: TRANSACTION UNDO
+[2026.09.02-22.08.31:662][464]LogEditorTransaction: Undo Group Selected
+[2026.09.02-22.09.32:885][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.02-22.09.33:102][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.09.02-22.09.33:126][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.09.02-22.09.33:146][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.09.02-22.09.33:147][ 98]LogFileHelpers: Saving Map: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.09.02-22.09.33:155][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Lvl_ThirdPerson] ([1] browsable assets)...
+[2026.09.02-22.09.33:155][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Lvl_ThirdPerson]
+[2026.09.02-22.09.33:222][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.09.02-22.09.33:236][ 98]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.09.02-22.09.33:236][ 98]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/Lvl_ThirdPerson10C01F7A45F4D37A1EA0B9AC30629206.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/ThirdPerson/Lvl_ThirdPerson.umap'
+[2026.09.02-22.09.33:250][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 364.722 ms (total: 917.806 ms)
+[2026.09.02-22.09.33:380][ 98]LogContentValidation: Enabled validators:
+[2026.09.02-22.09.33:380][ 98]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.02-22.09.33:380][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.02-22.09.33:380][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.02-22.09.33:380][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.02-22.09.33:380][ 98]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.02-22.09.33:380][ 98]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.02-22.09.33:380][ 98]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.02-22.09.33:380][ 98]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.02-22.09.33:380][ 98]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.02-22.09.33:380][ 98]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.02-22.09.33:380][ 98]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.02-22.09.33:380][ 98]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.09.02-22.09.33:380][ 98]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.02-22.09.33:380][ 98]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.02-22.09.33:380][ 98]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.02-22.09.33:380][ 98]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.02-22.09.33:380][ 98]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.02-22.09.33:380][ 98]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.02-22.09.33:380][ 98]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.02-22.09.33:380][ 98]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.02-22.09.33:380][ 98]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.02-22.09.33:380][ 98]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.02-22.09.33:406][ 98]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.02-22.09.37:406][336]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' with subface index 0 in Game thread.
+[2026.09.02-22.09.37:406][336]LogSlate: Display: Took 0.000646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K) on Game thread.
+[2026.09.02-22.09.37:406][336]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' subface 0 in Game thread.
+[2026.09.02-22.09.37:406][336]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.09.02-22.09.45:886][832]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.09.02-22.09.45:898][832]LogContentBrowser: Creating deferred item: NewFolder
+[2026.09.02-22.09.45:909][833]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.09.02-22.09.48:600][995]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2026.09.02-22.09.48:600][995]LogContentBrowser: End creating deferred item NewFolder
+[2026.09.02-22.09.56:651][465]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_16.svg'. File could not be found
+[2026.09.02-22.09.56:651][465]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/ToonProfile_16.svg'. File could not be found
+[2026.09.02-22.10.05:580][990]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.09.02-22.10.05:588][990]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.09.02-22.10.05:628][992]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.09.02-22.10.10:714][295]LogContentBrowser: Attempting asset rename: NewMaterial -> Green
+[2026.09.02-22.10.10:724][295]LogContentBrowser: End creating deferred item NewMaterial
+[2026.09.02-22.10.14:049][474]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Green.Green
+[2026.09.02-22.10.14:084][474]LogStreaming: Display: FlushAsyncLoading(432): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.02-22.10.14:657][474]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' with subface index 0 in Game thread.
+[2026.09.02-22.10.14:657][474]LogSlate: Display: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K) on Game thread.
+[2026.09.02-22.10.14:657][474]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' subface 0 in Game thread.
+[2026.09.02-22.10.14:657][474]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.09.02-22.10.14:862][478]LogPSOHitching: Encountered 250 PSO creation hitches so far (68 graphics, 182 compute). 0 of them were precached.
+[2026.09.02-22.10.35:647][322]LogSlate: Window 'Color Picker' being destroyed
+[2026.09.02-22.10.35:681][322]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 987.978210
+[2026.09.02-22.10.35:868][330]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.02-22.10.35:868][330]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 988.148193, Update Interval: 317.031158
+[2026.09.02-22.11.26:898][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.02-22.11.27:062][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.09.02-22.11.27:081][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.09.02-22.11.27:110][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.09.02-22.11.27:119][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 220.968 ms (total: 1.13 sec)
+[2026.09.02-22.11.38:260][730]LogMaterialEditor: Saving and Compiling material Green
+[2026.09.02-22.11.38:328][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.09.02-22.11.39:274][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.09.02-22.11.39:285][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.02-22.11.39:393][730]LogFileHelpers: Saving Package: /Game/Materials/Green
+[2026.09.02-22.11.39:393][730]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Green] ([1] browsable assets)...
+[2026.09.02-22.11.39:407][730]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Green.Green]
+[2026.09.02-22.11.39:407][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Green]
+[2026.09.02-22.11.39:407][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Green" FILE="../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/Materials/Green.uasset" SILENT=true
+[2026.09.02-22.11.39:413][730]LogSavePackage: Moving output files for package: /Game/Materials/Green
+[2026.09.02-22.11.39:413][730]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/Green0FE0BD8C48775EEE4C167CA56F44D246.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/Materials/Green.uasset'
+[2026.09.02-22.11.39:422][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.355 ms (total: 1.27 sec)
+[2026.09.02-22.11.39:526][730]LogContentValidation: Enabled validators:
+[2026.09.02-22.11.39:526][730]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.02-22.11.39:526][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.02-22.11.39:526][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.02-22.11.39:526][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.02-22.11.39:526][730]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.02-22.11.39:526][730]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.02-22.11.39:526][730]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.02-22.11.39:526][730]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.02-22.11.39:526][730]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.02-22.11.39:526][730]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.02-22.11.39:526][730]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.02-22.11.39:526][730]AssetCheck: /Game/Materials/Green Validating asset
+[2026.09.02-22.11.39:526][730]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.02-22.11.39:526][730]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.02-22.11.39:526][730]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.02-22.11.39:526][730]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.02-22.11.39:526][730]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.02-22.11.39:526][730]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.02-22.11.39:526][730]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.02-22.11.39:526][730]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.02-22.11.39:526][730]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.02-22.11.39:526][730]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.02-22.11.39:554][730]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.02-22.11.51:443][419]Cmd: TRANSACTION UNDO
+[2026.09.02-22.11.51:443][419]LogEditorTransaction: Undo Place Objects
+[2026.09.02-22.11.51:444][419]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.ModelComponent_97' invalid (570 verts, 0 indices).
+[2026.09.02-22.12.08:778][430]Cmd: POLY SELECT ADJACENT ALL
+[2026.09.02-22.12.12:774][667]LogShaderCompilers: Display: ================================================
+[2026.09.02-22.12.12:774][667]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Total job queries 363, among them cache hits 18 (4.96%), DDC hits 290 (79.89%), Duplicates 31 (8.54%)
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Tracking 307 distinct input hashes that result in 213 distinct outputs (69.38%)
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: RAM used: 3.04 MiB of 1.60 GiB budget. Usage: 0.19%
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Shaders Compiled: 29
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Jobs assigned 29, completed 29 (100%)
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Average time worker was idle: 20.48 s
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.31 s
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 0.76 s
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Job life time (pending + execution): average 0.51 s, max 0.98
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Shader code size: total 223.245 KiB, numShaders 29, average 7.697 KiB, min 4.375 KiB, max 11.136 KiB
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.83 s
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Jobs were issued in 29 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Average processing rate: 7.57 jobs/sec
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Total thread time: 5.622 s
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Total thread preprocess time: 5.642 s
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Percentage time preprocessing: 100.36%
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Effective parallelization: 1.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.122275
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 0.41 sec, max 0.45 sec, min 0.37 sec)
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.15 sec, max 0.16 sec, min 0.13 sec)
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 36.20% of total time (compiled    5 times, average 0.41 sec, max 0.45 sec, min 0.37 sec)
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.46% of total time (compiled    5 times, average 0.15 sec, max 0.16 sec, min 0.13 sec)
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.19% of total time (compiled    5 times, average 0.11 sec, max 0.13 sec, min 0.10 sec)
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.67% of total time (compiled    5 times, average 0.11 sec, max 0.12 sec, min 0.10 sec)
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.34% of total time (compiled    5 times, average 0.10 sec, max 0.12 sec, min 0.09 sec)
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: === Material stats ===
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Materials Translated:    168
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Material Translation Only: 0.04 s (39%)
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: Material Cache Hits: 2 (1%)
+[2026.09.02-22.12.12:783][667]LogShaderCompilers: Display: ================================================
+[2026.09.02-22.12.16:298][868]Cmd: TRANSACTION UNDO
+[2026.09.02-22.12.16:298][868]LogEditorTransaction: Undo Place Objects
+[2026.09.02-22.12.16:299][868]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.ModelComponent_97' invalid (570 verts, 0 indices).
+[2026.09.02-22.12.28:580][580]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' with subface index 0 in Game thread.
+[2026.09.02-22.12.28:580][580]LogSlate: Display: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K) on Game thread.
+[2026.09.02-22.12.28:580][580]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' subface 0 in Game thread.
+[2026.09.02-22.12.28:580][580]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.09.02-22.12.44:068][498]Cmd: POLY SELECT ADJACENT ALL
+[2026.09.02-22.12.54:161][100]Cmd: POLY SELECT ADJACENT ALL
+[2026.09.02-22.13.03:211][641]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.09.02-22.13.09:861][ 30]Cmd: POLY SELECT ADJACENT ALL
+[2026.09.02-22.13.17:119][462]Cmd: TRANSACTION UNDO
+[2026.09.02-22.13.17:119][462]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2026.09.02-22.13.29:320][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.02-22.13.29:479][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.09.02-22.13.29:509][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.09.02-22.13.29:533][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.09.02-22.13.29:533][149]LogFileHelpers: Saving Map: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.09.02-22.13.29:533][149]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Lvl_ThirdPerson] ([1] browsable assets)...
+[2026.09.02-22.13.29:533][149]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Lvl_ThirdPerson]
+[2026.09.02-22.13.29:560][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.09.02-22.13.29:578][149]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.09.02-22.13.29:580][149]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/Lvl_ThirdPersonE12CEC2E4C6D65E851BFDEB556C8A64C.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/ThirdPerson/Lvl_ThirdPerson.umap'
+[2026.09.02-22.13.29:594][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 273.162 ms (total: 1.54 sec)
+[2026.09.02-22.13.29:711][149]LogContentValidation: Enabled validators:
+[2026.09.02-22.13.29:711][149]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.02-22.13.29:711][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.02-22.13.29:711][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.02-22.13.29:711][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.02-22.13.29:711][149]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.02-22.13.29:711][149]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.02-22.13.29:711][149]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.02-22.13.29:711][149]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.02-22.13.29:711][149]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.02-22.13.29:711][149]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.02-22.13.29:711][149]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.02-22.13.29:711][149]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.09.02-22.13.29:711][149]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.02-22.13.29:711][149]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.02-22.13.29:711][149]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.02-22.13.29:711][149]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.02-22.13.29:711][149]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.02-22.13.29:711][149]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.02-22.13.29:711][149]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.02-22.13.29:711][149]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.02-22.13.29:711][149]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.02-22.13.29:711][149]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.02-22.13.39:757][743]Cmd: POLY SELECT ADJACENT ALL
+[2026.09.02-22.13.53:036][518]Cmd: POLY SELECT ADJACENT ALL
+[2026.09.02-22.14.11:306][590]Cmd: POLY SELECT ADJACENT ALL
+[2026.09.02-22.14.25:224][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.02-22.14.25:350][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.09.02-22.14.25:367][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.09.02-22.14.25:385][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.09.02-22.14.25:385][408]LogFileHelpers: Saving Map: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.09.02-22.14.25:385][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Lvl_ThirdPerson] ([1] browsable assets)...
+[2026.09.02-22.14.25:385][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Lvl_ThirdPerson]
+[2026.09.02-22.14.25:428][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.09.02-22.14.25:445][408]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.09.02-22.14.25:445][408]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/Lvl_ThirdPersonBFDDFE084A1544B21D551EA818774894.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/ThirdPerson/Lvl_ThirdPerson.umap'
+[2026.09.02-22.14.25:459][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 235.469 ms (total: 1.78 sec)
+[2026.09.02-22.14.25:574][408]LogContentValidation: Enabled validators:
+[2026.09.02-22.14.25:574][408]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.02-22.14.25:574][408]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.02-22.14.25:574][408]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.02-22.14.25:574][408]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.02-22.14.25:574][408]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.02-22.14.25:574][408]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.02-22.14.25:574][408]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.02-22.14.25:574][408]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.02-22.14.25:574][408]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.02-22.14.25:574][408]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.02-22.14.25:574][408]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.02-22.14.25:574][408]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.09.02-22.14.25:575][408]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.02-22.14.25:575][408]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.02-22.14.25:575][408]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.02-22.14.25:575][408]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.02-22.14.25:575][408]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.02-22.14.25:575][408]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.02-22.14.25:575][408]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.02-22.14.25:575][408]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.02-22.14.25:575][408]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.02-22.14.25:575][408]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.02-22.14.45:206][556]LogSlate: Window 'Green' being destroyed
+[2026.09.02-22.14.45:211][556]LogSlate: Window 'Green' being destroyed
+[2026.09.02-22.14.45:253][556]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.09.02-22.14.45:253][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.02-22.14.45:311][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.09.02-22.14.50:883][836]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.09.02-22.14.50:891][836]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.09.02-22.14.50:901][837]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.09.02-22.14.53:783][  9]LogContentBrowser: Attempting asset rename: NewMaterial -> Brown
+[2026.09.02-22.14.53:784][  9]LogContentBrowser: End creating deferred item NewMaterial
+[2026.09.02-22.14.55:156][ 84]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Brown.Brown
+[2026.09.02-22.15.15:096][195]LogSlate: Window 'Color Picker' being destroyed
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: ================================================
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Total job queries 368, among them cache hits 21 (5.71%), DDC hits 290 (78.80%), Duplicates 31 (8.42%)
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Tracking 307 distinct input hashes that result in 213 distinct outputs (69.38%)
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: RAM used: 3.04 MiB of 1.60 GiB budget. Usage: 0.19%
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Shaders Compiled: 34
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Jobs assigned 34, completed 34 (100%)
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Average time worker was idle: 55.76 s
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.31 s
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 0.76 s
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Job life time (pending + execution): average 0.51 s, max 0.98
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Shader code size: total 260.769 KiB, numShaders 34, average 7.669 KiB, min 4.375 KiB, max 11.136 KiB
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.58 s
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Jobs were issued in 34 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Average processing rate: 7.42 jobs/sec
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Total thread time: 6.582 s
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Total thread preprocess time: 5.783 s
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Percentage time preprocessing: 87.86%
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Effective parallelization: 1.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.119716
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 0.42 sec, max 0.46 sec, min 0.37 sec)
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.15 sec, max 0.16 sec, min 0.13 sec)
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 37.94% of total time (compiled    6 times, average 0.42 sec, max 0.46 sec, min 0.37 sec)
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.85% of total time (compiled    6 times, average 0.15 sec, max 0.16 sec, min 0.13 sec)
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.59% of total time (compiled    6 times, average 0.12 sec, max 0.13 sec, min 0.10 sec)
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.01% of total time (compiled    6 times, average 0.11 sec, max 0.12 sec, min 0.10 sec)
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.58% of total time (compiled    6 times, average 0.11 sec, max 0.12 sec, min 0.09 sec)
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: === Material stats ===
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Materials Translated:    176
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Material Translation Only: 0.04 s (40%)
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: Material Cache Hits: 2 (1%)
+[2026.09.02-22.15.15:120][195]LogShaderCompilers: Display: ================================================
+[2026.09.02-22.15.54:095][110]LogSlate: Window 'Color Picker' being destroyed
+[2026.09.02-22.16.04:115][687]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1316.413086
+[2026.09.02-22.16.04:255][693]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.02-22.16.04:256][693]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1316.518799, Update Interval: 325.031281
+[2026.09.02-22.16.38:694][737]LogMaterialEditor: Saving and Compiling material Brown
+[2026.09.02-22.16.38:797][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.09.02-22.16.39:639][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.09.02-22.16.39:650][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.02-22.16.39:755][737]LogFileHelpers: Saving Package: /Game/Materials/Brown
+[2026.09.02-22.16.39:756][737]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Brown] ([1] browsable assets)...
+[2026.09.02-22.16.39:767][737]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Brown.Brown]
+[2026.09.02-22.16.39:767][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Brown]
+[2026.09.02-22.16.39:767][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Brown" FILE="../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/Materials/Brown.uasset" SILENT=true
+[2026.09.02-22.16.39:773][737]LogSavePackage: Moving output files for package: /Game/Materials/Brown
+[2026.09.02-22.16.39:773][737]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/BrownA46299E74E6AEEB6B1BB5B91A93968F2.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/Materials/Brown.uasset'
+[2026.09.02-22.16.39:781][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.141 ms (total: 1.91 sec)
+[2026.09.02-22.16.39:887][737]LogContentValidation: Enabled validators:
+[2026.09.02-22.16.39:887][737]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.02-22.16.39:887][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.02-22.16.39:887][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.02-22.16.39:887][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.02-22.16.39:887][737]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.02-22.16.39:887][737]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.02-22.16.39:887][737]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.02-22.16.39:887][737]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.02-22.16.39:887][737]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.02-22.16.39:887][737]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.02-22.16.39:887][737]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.02-22.16.39:887][737]AssetCheck: /Game/Materials/Brown Validating asset
+[2026.09.02-22.16.39:887][737]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.02-22.16.39:887][737]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.02-22.16.39:887][737]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.02-22.16.39:887][737]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.02-22.16.39:887][737]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.02-22.16.39:887][737]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.02-22.16.39:887][737]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.02-22.16.39:887][737]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.02-22.16.39:887][737]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.02-22.16.39:887][737]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.02-22.16.39:908][737]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.02-22.16.46:500][119]Cmd: POLY SELECT ADJACENT ALL
+[2026.09.02-22.17.04:471][173]Cmd: POLY SELECT ADJACENT ALL
+[2026.09.02-22.17.39:510][863]LogMaterialEditor: Saving and Compiling material Brown
+[2026.09.02-22.17.39:601][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.09.02-22.17.40:440][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.09.02-22.17.40:451][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.02-22.17.40:553][863]LogFileHelpers: Saving Package: /Game/Materials/Brown
+[2026.09.02-22.17.40:554][863]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Brown] ([1] browsable assets)...
+[2026.09.02-22.17.40:561][863]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Brown.Brown]
+[2026.09.02-22.17.40:561][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Brown]
+[2026.09.02-22.17.40:561][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Brown" FILE="../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/Materials/Brown.uasset" SILENT=true
+[2026.09.02-22.17.40:567][863]LogSavePackage: Moving output files for package: /Game/Materials/Brown
+[2026.09.02-22.17.40:567][863]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/Brown6C509AF24BD9FC69D1D642BD565D8BA4.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/Materials/Brown.uasset'
+[2026.09.02-22.17.40:576][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.830 ms (total: 2.04 sec)
+[2026.09.02-22.17.40:687][863]LogContentValidation: Enabled validators:
+[2026.09.02-22.17.40:687][863]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.02-22.17.40:687][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.02-22.17.40:687][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.02-22.17.40:687][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.02-22.17.40:687][863]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.02-22.17.40:687][863]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.02-22.17.40:687][863]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.02-22.17.40:687][863]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.02-22.17.40:687][863]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.02-22.17.40:687][863]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.02-22.17.40:687][863]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.02-22.17.40:687][863]AssetCheck: /Game/Materials/Brown Validating asset
+[2026.09.02-22.17.40:687][863]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.02-22.17.40:687][863]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.02-22.17.40:687][863]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.02-22.17.40:687][863]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.02-22.17.40:687][863]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.02-22.17.40:688][863]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.02-22.17.40:688][863]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.02-22.17.40:688][863]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.02-22.17.40:688][863]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.02-22.17.40:688][863]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.02-22.17.48:880][347]LogMaterialEditor: Saving and Compiling material Brown
+[2026.09.02-22.17.48:947][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.09.02-22.17.49:686][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.09.02-22.17.49:696][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.02-22.17.49:803][347]LogFileHelpers: Saving Package: /Game/Materials/Brown
+[2026.09.02-22.17.49:803][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Brown] ([1] browsable assets)...
+[2026.09.02-22.17.49:810][347]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Brown.Brown]
+[2026.09.02-22.17.49:810][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Brown]
+[2026.09.02-22.17.49:810][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Brown" FILE="../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/Materials/Brown.uasset" SILENT=true
+[2026.09.02-22.17.49:816][347]LogSavePackage: Moving output files for package: /Game/Materials/Brown
+[2026.09.02-22.17.49:816][347]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/Brown9F200D1844B1A5A28A1B6083BB560BB9.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/Materials/Brown.uasset'
+[2026.09.02-22.17.49:824][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.382 ms (total: 2.16 sec)
+[2026.09.02-22.17.49:935][347]LogContentValidation: Enabled validators:
+[2026.09.02-22.17.49:935][347]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.02-22.17.49:935][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.02-22.17.49:935][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.02-22.17.49:935][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.02-22.17.49:935][347]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.02-22.17.49:935][347]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.02-22.17.49:935][347]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.02-22.17.49:935][347]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.02-22.17.49:935][347]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.02-22.17.49:935][347]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.02-22.17.49:935][347]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.02-22.17.49:935][347]AssetCheck: /Game/Materials/Brown Validating asset
+[2026.09.02-22.17.49:935][347]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.02-22.17.49:935][347]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.02-22.17.49:935][347]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.02-22.17.49:935][347]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.02-22.17.49:935][347]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.02-22.17.49:935][347]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.02-22.17.49:935][347]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.02-22.17.49:935][347]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.02-22.17.49:935][347]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.02-22.17.49:935][347]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.02-22.17.56:927][512]LogSlate: Window 'Color Picker' being destroyed
+[2026.09.02-22.18.01:895][805]LogMaterialEditor: Saving and Compiling material Brown
+[2026.09.02-22.18.01:979][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.09.02-22.18.02:615][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.09.02-22.18.02:624][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.02-22.18.02:736][805]LogFileHelpers: Saving Package: /Game/Materials/Brown
+[2026.09.02-22.18.02:736][805]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Brown] ([1] browsable assets)...
+[2026.09.02-22.18.02:742][805]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Brown.Brown]
+[2026.09.02-22.18.02:742][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Brown]
+[2026.09.02-22.18.02:742][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Brown" FILE="../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/Materials/Brown.uasset" SILENT=true
+[2026.09.02-22.18.02:749][805]LogSavePackage: Moving output files for package: /Game/Materials/Brown
+[2026.09.02-22.18.02:749][805]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/BrownBF3066724E8C8B63E584B0A669B6BFA3.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/Materials/Brown.uasset'
+[2026.09.02-22.18.02:756][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.422 ms (total: 2.30 sec)
+[2026.09.02-22.18.02:852][805]LogContentValidation: Enabled validators:
+[2026.09.02-22.18.02:852][805]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.02-22.18.02:852][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.02-22.18.02:852][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.02-22.18.02:852][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.02-22.18.02:852][805]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.02-22.18.02:852][805]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.02-22.18.02:852][805]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.02-22.18.02:852][805]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.02-22.18.02:852][805]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.02-22.18.02:852][805]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.02-22.18.02:852][805]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.02-22.18.02:852][805]AssetCheck: /Game/Materials/Brown Validating asset
+[2026.09.02-22.18.02:852][805]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.02-22.18.02:852][805]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.02-22.18.02:852][805]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.02-22.18.02:852][805]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.02-22.18.02:852][805]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.02-22.18.02:853][805]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.02-22.18.02:853][805]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.02-22.18.02:853][805]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.02-22.18.02:853][805]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.02-22.18.02:853][805]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.02-22.18.15:127][535]LogShaderCompilers: Display: ================================================
+[2026.09.02-22.18.15:127][535]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.02-22.18.15:127][535]LogShaderCompilers: Display: Total job queries 498, among them cache hits 63 (12.65%), DDC hits 290 (58.23%), Duplicates 49 (9.84%)
+[2026.09.02-22.18.15:127][535]LogShaderCompilers: Display: Tracking 356 distinct input hashes that result in 224 distinct outputs (62.92%)
+[2026.09.02-22.18.15:127][535]LogShaderCompilers: Display: RAM used: 3.12 MiB of 1.60 GiB budget. Usage: 0.19%
+[2026.09.02-22.18.15:127][535]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.02-22.18.15:127][535]LogShaderCompilers: Display: Shaders Compiled: 134
+[2026.09.02-22.18.15:127][535]LogShaderCompilers: Display: Jobs assigned 134, completed 134 (100%)
+[2026.09.02-22.18.15:127][535]LogShaderCompilers: Display: Average time worker was idle: 29.32 s
+[2026.09.02-22.18.15:127][535]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.31 s
+[2026.09.02-22.18.15:127][535]LogShaderCompilers: Display: Job execution time: average 0.32 s, max 0.76 s
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: Job life time (pending + execution): average 0.38 s, max 0.98
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: Shader code size: total 1.015 MiB, numShaders 134, average 7.755 KiB, min 4.375 KiB, max 11.249 KiB
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.87 s
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: Jobs were issued in 134 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: Average processing rate: 9.01 jobs/sec
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: Total thread time: 25.979 s
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: Total thread preprocess time: 8.198 s
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: Percentage time preprocessing: 31.55%
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: Effective parallelization: 1.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.145549
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    5 times, average 0.43 sec, max 0.47 sec, min 0.36 sec)
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    5 times, average 0.43 sec, max 0.47 sec, min 0.37 sec)
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   24 times, average 0.41 sec, max 0.47 sec, min 0.37 sec)
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   24 times, average 0.15 sec, max 0.18 sec, min 0.13 sec)
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    2 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 37.69% of total time (compiled   24 times, average 0.41 sec, max 0.47 sec, min 0.37 sec)
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.05% of total time (compiled   24 times, average 0.15 sec, max 0.18 sec, min 0.13 sec)
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.61% of total time (compiled   24 times, average 0.11 sec, max 0.13 sec, min 0.10 sec)
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.13% of total time (compiled   24 times, average 0.11 sec, max 0.13 sec, min 0.09 sec)
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.26% of total time (compiled   24 times, average 0.10 sec, max 0.12 sec, min 0.09 sec)
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: === Material stats ===
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: Materials Translated:    210
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: Material Translation Only: 0.05 s (40%)
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: Material Cache Hits: 2 (1%)
+[2026.09.02-22.18.15:128][535]LogShaderCompilers: Display: ================================================
+[2026.09.02-22.18.16:087][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.02-22.18.16:216][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.09.02-22.18.16:244][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.09.02-22.18.16:301][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.09.02-22.18.16:302][592]LogFileHelpers: Saving Map: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.09.02-22.18.16:302][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Lvl_ThirdPerson] ([1] browsable assets)...
+[2026.09.02-22.18.16:302][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Lvl_ThirdPerson]
+[2026.09.02-22.18.16:327][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.09.02-22.18.16:339][592]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.09.02-22.18.16:339][592]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/Lvl_ThirdPerson5D3CD11443B34342D1E5218B06FAC28B.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/ThirdPerson/Lvl_ThirdPerson.umap'
+[2026.09.02-22.18.16:354][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 267.393 ms (total: 2.56 sec)
+[2026.09.02-22.18.16:471][592]LogContentValidation: Enabled validators:
+[2026.09.02-22.18.16:471][592]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.02-22.18.16:471][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.02-22.18.16:471][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.02-22.18.16:471][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.02-22.18.16:471][592]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.02-22.18.16:471][592]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.02-22.18.16:471][592]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.02-22.18.16:471][592]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.02-22.18.16:471][592]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.02-22.18.16:471][592]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.02-22.18.16:472][592]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.02-22.18.16:472][592]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.09.02-22.18.16:472][592]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.02-22.18.16:472][592]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.02-22.18.16:472][592]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.02-22.18.16:472][592]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.02-22.18.16:472][592]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.02-22.18.16:472][592]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.02-22.18.16:472][592]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.02-22.18.16:472][592]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.02-22.18.16:472][592]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.02-22.18.16:472][592]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
