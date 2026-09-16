@@ -3661,3 +3661,626 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.16-19.58.41:275][286]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
 [2026.09.16-19.58.41:275][286]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.09.16-19.58.41:275][286]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.16-19.59.27:493][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-19.59.27:859][887]LogFileHelpers: Saving Package: /Game/BPs/Widgets/HUD
+[2026.09.16-19.59.27:859][887]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BPs/Widgets/HUD] ([2] browsable assets)...
+[2026.09.16-19.59.27:859][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/BPs/Widgets/HUD]
+[2026.09.16-19.59.27:859][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPs/Widgets/HUD" FILE="../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/BPs/Widgets/HUD.uasset" SILENT=true
+[2026.09.16-19.59.27:872][887]LogSavePackage: Moving output files for package: /Game/BPs/Widgets/HUD
+[2026.09.16-19.59.27:872][887]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/HUD500091DB46DA80785FA3AFBB55B23DDC.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/BPs/Widgets/HUD.uasset'
+[2026.09.16-19.59.27:927][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 434.282 ms (total: 12.4 sec)
+[2026.09.16-19.59.28:104][887]LogContentValidation: Enabled validators:
+[2026.09.16-19.59.28:104][887]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-19.59.28:104][887]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.16-19.59.28:104][887]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-19.59.28:104][887]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-19.59.28:104][887]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-19.59.28:104][887]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-19.59.28:104][887]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-19.59.28:104][887]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.16-19.59.28:104][887]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.16-19.59.28:104][887]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.16-19.59.28:104][887]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.16-19.59.28:105][887]AssetCheck: /Game/BPs/Widgets/HUD Validating asset
+[2026.09.16-19.59.28:105][887]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.16-19.59.28:105][887]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.16-19.59.28:105][887]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.16-19.59.28:105][887]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.16-19.59.28:105][887]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.16-19.59.28:105][887]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.16-19.59.28:105][887]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.16-19.59.28:105][887]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.09.16-19.59.28:105][887]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.16-19.59.28:105][887]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.16-20.01.42:599][674]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.16-20.01.42:599][674]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.16-20.01.42:599][674]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.16-20.01.42:599][674]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.16-20.01.42:599][674]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.16-20.01.51:537][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-20.01.51:856][956]LogFileHelpers: Saving Package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.09.16-20.01.51:857][956]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.09.16-20.01.51:996][956]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.09.16-20.01.51:996][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.09.16-20.01.52:037][956]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.09.16-20.01.52:039][956]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/BP_ThirdPersonCharacter0779DA974C1299F4E7E356B544421BE2.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.09.16-20.01.52:111][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 574.672 ms (total: 13.0 sec)
+[2026.09.16-20.01.52:387][956]LogContentValidation: Enabled validators:
+[2026.09.16-20.01.52:387][956]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-20.01.52:387][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.16-20.01.52:387][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-20.01.52:387][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-20.01.52:387][956]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-20.01.52:387][956]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-20.01.52:387][956]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-20.01.52:387][956]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.16-20.01.52:387][956]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.16-20.01.52:387][956]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.16-20.01.52:387][956]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.16-20.01.52:387][956]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.09.16-20.01.52:387][956]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.16-20.01.52:387][956]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.16-20.01.52:387][956]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.16-20.01.52:387][956]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.16-20.01.52:387][956]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.16-20.01.52:387][956]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.16-20.01.52:387][956]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.16-20.01.52:387][956]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.16-20.01.52:388][956]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.16-20.01.52:388][956]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.16-20.02.11:208][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-20.02.11:523][519]LogFileHelpers: Saving Package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.09.16-20.02.11:525][519]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.09.16-20.02.11:525][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.09.16-20.02.11:565][519]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.09.16-20.02.11:566][519]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/BP_ThirdPersonCharacter08BC404B488BEA02953DD7961B331E07.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.09.16-20.02.11:613][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 404.766 ms (total: 13.4 sec)
+[2026.09.16-20.02.11:894][519]LogContentValidation: Enabled validators:
+[2026.09.16-20.02.11:894][519]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-20.02.11:894][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.16-20.02.11:894][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-20.02.11:894][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-20.02.11:894][519]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-20.02.11:894][519]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-20.02.11:894][519]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-20.02.11:894][519]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.16-20.02.11:894][519]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.16-20.02.11:894][519]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.16-20.02.11:894][519]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.16-20.02.11:895][519]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.09.16-20.02.11:895][519]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.16-20.02.11:895][519]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.16-20.02.11:895][519]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.16-20.02.11:895][519]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.16-20.02.11:895][519]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.16-20.02.11:895][519]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.16-20.02.11:895][519]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.16-20.02.11:895][519]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.16-20.02.11:895][519]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.16-20.02.11:895][519]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.16-20.02.44:446][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-20.02.44:767][503]LogFileHelpers: Saving Package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.09.16-20.02.44:768][503]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.09.16-20.02.44:907][503]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.09.16-20.02.44:907][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.09.16-20.02.44:962][503]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.09.16-20.02.44:964][503]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/BP_ThirdPersonCharacter9568A60F44600FABB7C0D8B14E94D670.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.09.16-20.02.45:026][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 580.413 ms (total: 14.0 sec)
+[2026.09.16-20.02.45:311][503]LogContentValidation: Enabled validators:
+[2026.09.16-20.02.45:311][503]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-20.02.45:311][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.16-20.02.45:311][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-20.02.45:311][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-20.02.45:311][503]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-20.02.45:311][503]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-20.02.45:311][503]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-20.02.45:311][503]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.16-20.02.45:311][503]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.16-20.02.45:311][503]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.16-20.02.45:311][503]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.16-20.02.45:311][503]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.09.16-20.02.45:311][503]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.16-20.02.45:311][503]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.16-20.02.45:311][503]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.16-20.02.45:311][503]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.16-20.02.45:311][503]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.16-20.02.45:311][503]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.16-20.02.45:312][503]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.16-20.02.45:312][503]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.16-20.02.45:312][503]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.16-20.02.45:312][503]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.16-20.03.06:952][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-20.03.07:300][113]LogFileHelpers: Saving Package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.09.16-20.03.07:301][113]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.09.16-20.03.07:433][113]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.09.16-20.03.07:433][113]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.09.16-20.03.07:466][113]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.09.16-20.03.07:468][113]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/BP_ThirdPersonCharacter6BBE32A6476F2B9B1D67888A65B3DA10.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.09.16-20.03.07:511][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 559.508 ms (total: 14.5 sec)
+[2026.09.16-20.03.07:808][113]LogContentValidation: Enabled validators:
+[2026.09.16-20.03.07:808][113]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-20.03.07:808][113]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.16-20.03.07:808][113]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-20.03.07:808][113]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-20.03.07:808][113]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-20.03.07:808][113]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-20.03.07:808][113]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-20.03.07:808][113]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.16-20.03.07:808][113]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.16-20.03.07:808][113]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.16-20.03.07:808][113]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.16-20.03.07:809][113]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.09.16-20.03.07:809][113]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.16-20.03.07:809][113]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.16-20.03.07:809][113]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.16-20.03.07:809][113]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.16-20.03.07:809][113]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.16-20.03.07:809][113]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.16-20.03.07:809][113]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.16-20.03.07:809][113]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.16-20.03.07:809][113]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.16-20.03.07:809][113]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.16-20.03.09:573][163]LogBlueprint: Compiling Blueprint '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter'
+[2026.09.16-20.03.09:870][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2026.09.16-20.03.22:408][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-20.03.22:742][625]LogFileHelpers: Saving Package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.09.16-20.03.22:743][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.09.16-20.03.22:877][625]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.09.16-20.03.22:877][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.09.16-20.03.22:921][625]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.09.16-20.03.22:923][625]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/BP_ThirdPersonCharacter94D081FB4D3C5526A3C0BFABC76A20A0.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.09.16-20.03.22:965][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 556.725 ms (total: 15.1 sec)
+[2026.09.16-20.03.23:241][625]LogContentValidation: Enabled validators:
+[2026.09.16-20.03.23:241][625]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-20.03.23:241][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.16-20.03.23:241][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-20.03.23:241][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-20.03.23:241][625]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-20.03.23:241][625]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-20.03.23:241][625]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-20.03.23:241][625]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.16-20.03.23:241][625]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.16-20.03.23:241][625]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.16-20.03.23:241][625]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.16-20.03.23:241][625]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.09.16-20.03.23:241][625]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.16-20.03.23:242][625]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.16-20.03.23:242][625]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.16-20.03.23:242][625]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.16-20.03.23:242][625]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.16-20.03.23:242][625]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.16-20.03.23:242][625]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.16-20.03.23:242][625]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.16-20.03.23:242][625]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.16-20.03.23:242][625]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.16-20.03.24:333][648]LogPSOHitching: Encountered 300 PSO creation hitches so far (132 graphics, 168 compute). 0 of them were precached.
+[2026.09.16-20.03.24:526][648]LogPSOHitching: Encountered 350 PSO creation hitches so far (142 graphics, 208 compute). 0 of them were precached.
+[2026.09.16-20.03.24:784][649]LogPSOHitching: Encountered 400 PSO creation hitches so far (169 graphics, 231 compute). 0 of them were precached.
+[2026.09.16-20.03.25:857][675]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.16-20.03.25:869][675]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.09.16-20.03.25:869][675]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.09.16-20.03.25:878][675]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 8.985 ms (total: 66.216 ms)
+[2026.09.16-20.03.25:878][675]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.09.16-20.03.25:878][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.16-20.03.25:878][675]LogPlayLevel: Display: Creating online subsystem for client :Context_15
+[2026.09.16-20.03.25:884][675]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.09.16-20.03.25:923][676]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.09.16-20.03.25:961][676]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.09.16-20.03.25:966][676]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.755 ms (total: 31.730 ms)
+[2026.09.16-20.03.26:013][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.089609s)
+[2026.09.16-20.03.26:013][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.089895s)
+[2026.09.16-20.03.26:080][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.09.16-20.03.26:091][676]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.09.16-20.03.26:095][676]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.09.16-20.03.26:095][676]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.16-20.03.26:095][676]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.16-20.03.26:095][676]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.09.16-20.03.26:103][676]LogWorldPartition: Display: WorldPartition initialize took 7.976 ms (total: 2.28 sec)
+[2026.09.16-20.03.26:103][676]LogPlayLevel: PIE: World Init took: (0.012255s)
+[2026.09.16-20.03.26:103][676]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.09.16-20.03.26:103][676]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.09.16-20.03.26:103][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.16-20.03.26:103][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.16-20.03.26:103][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.16-20.03.26:103][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.16-20.03.26:103][676]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.16-20.03.26:103][676]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.16-20.03.26:103][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.16-20.03.26:103][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.16-20.03.26:103][676]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.16-20.03.26:103][676]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.16-20.03.26:103][676]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.16-20.03.26:105][676]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.09.16-20.03.26:109][676]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers (Realtek(R) Audio)'
+[2026.09.16-20.03.26:109][676]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (Realtek(R) Audio)'
+[2026.09.16-20.03.26:111][676]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers (Realtek(R) Audio)'
+[2026.09.16-20.03.26:111][676]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (Realtek(R) Audio)'
+[2026.09.16-20.03.26:112][676]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers (Realtek(R) Audio)'
+[2026.09.16-20.03.26:113][676]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.09.16-20.03.26:120][676]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.09.16-20.03.26:120][676]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.09.16-20.03.26:120][676]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.09.16-20.03.26:121][676]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.09.16-20.03.26:128][676]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.09.16-20.03.26:128][676]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.09.16-20.03.26:128][676]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.09.16-20.03.26:128][676]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.09.16-20.03.26:128][676]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.16-20.03.26:128][676]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.16-20.03.26:128][676]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.16-20.03.26:130][676]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.09.16-20.03.26:133][676]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.09.16-20.03.26:135][676]LogInit: FAudioDevice initialized with ID 9.
+[2026.09.16-20.03.26:135][676]LogAudio: Display: Audio Device (ID: 9) registered with world 'Lvl_ThirdPerson'.
+[2026.09.16-20.03.26:135][676]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.09.16-20.03.26:137][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.16-20.03.26:143][676]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.09.16-20.03.26:147][676]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.09.16-14.03.26
+[2026.09.16-20.03.26:147][676]LogWorld: Bringing up level for play took: 0.003409
+[2026.09.16-20.03.26:148][676]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.09.16-20.03.26:163][676]PIE: Server logged in
+[2026.09.16-20.03.26:168][676]PIE: Play in editor total start time 0.299 seconds.
+[2026.09.16-20.03.26:259][677]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.16-20.03.26:424][680]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.09.16-20.03.31:249][957]Cmd: DebugManager.CycleToPreviousColumn
+[2026.09.16-20.03.33:306][ 75]Cmd: DebugManager.CycleToPreviousColumn
+[2026.09.16-20.03.35:330][194]Cmd: DebugManager.CycleToPreviousColumn
+[2026.09.16-20.03.36:898][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.16-20.03.36:898][284]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.09.16-20.03.36:904][284]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.09.16-20.03.36:906][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.16-20.03.36:906][284]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.09.16-20.03.36:908][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.16-20.03.36:920][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.16-20.03.36:975][284]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.09.16-20.03.36:975][284]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.09.16-20.03.36:975][284]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=9, StreamState=4
+[2026.09.16-20.03.36:986][284]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.16-20.03.36:991][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.16-20.03.36:998][284]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2026.09.16-20.03.37:175][284]LogPSOHitching: Encountered 450 PSO creation hitches so far (179 graphics, 271 compute). 0 of them were precached.
+[2026.09.16-20.03.37:303][285]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.09.16-20.03.56:487][ 96]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BPs/Coin_BP.Coin_BP
+[2026.09.16-20.04.00:783][288]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3259.351318
+[2026.09.16-20.04.00:933][296]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.16-20.04.00:933][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3259.480225, Update Interval: 312.748199
+[2026.09.16-20.05.16:027][384]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.09.16-20.05.58:015][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-20.05.58:339][335]LogFileHelpers: Saving Package: /Game/BPs/Widgets/HUD
+[2026.09.16-20.05.58:339][335]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BPs/Widgets/HUD] ([2] browsable assets)...
+[2026.09.16-20.05.58:357][335]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BPs/Widgets/HUD.HUD]
+[2026.09.16-20.05.58:357][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/BPs/Widgets/HUD]
+[2026.09.16-20.05.58:357][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPs/Widgets/HUD" FILE="../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/BPs/Widgets/HUD.uasset" SILENT=true
+[2026.09.16-20.05.58:389][335]LogSavePackage: Moving output files for package: /Game/BPs/Widgets/HUD
+[2026.09.16-20.05.58:390][335]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/HUD027AE44E4615A8CAA3E497A2F422FF4D.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/BPs/Widgets/HUD.uasset'
+[2026.09.16-20.05.58:434][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 418.199 ms (total: 15.5 sec)
+[2026.09.16-20.05.58:721][335]LogContentValidation: Enabled validators:
+[2026.09.16-20.05.58:721][335]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-20.05.58:721][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.16-20.05.58:721][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-20.05.58:721][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-20.05.58:721][335]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-20.05.58:721][335]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-20.05.58:722][335]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-20.05.58:722][335]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.16-20.05.58:722][335]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.16-20.05.58:722][335]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.16-20.05.58:722][335]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.16-20.05.58:723][335]AssetCheck: /Game/BPs/Widgets/HUD Validating asset
+[2026.09.16-20.05.58:723][335]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.16-20.05.58:723][335]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.16-20.05.58:723][335]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.16-20.05.58:723][335]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.16-20.05.58:723][335]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.16-20.05.58:723][335]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.16-20.05.58:723][335]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.16-20.05.58:723][335]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.09.16-20.05.58:723][335]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.16-20.05.58:723][335]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.16-20.06.48:437][153]LogSlate: Window 'Color Picker' being destroyed
+[2026.09.16-20.06.48:693][153]LogSlate: Window 'Color Picker' being destroyed
+[2026.09.16-20.06.49:613][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-20.06.50:041][168]LogFileHelpers: Saving Package: /Game/BPs/Widgets/HUD
+[2026.09.16-20.06.50:042][168]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BPs/Widgets/HUD] ([2] browsable assets)...
+[2026.09.16-20.06.50:062][168]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BPs/Widgets/HUD.HUD]
+[2026.09.16-20.06.50:062][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/BPs/Widgets/HUD]
+[2026.09.16-20.06.50:062][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPs/Widgets/HUD" FILE="../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/BPs/Widgets/HUD.uasset" SILENT=true
+[2026.09.16-20.06.50:098][168]LogSavePackage: Moving output files for package: /Game/BPs/Widgets/HUD
+[2026.09.16-20.06.50:101][168]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/HUD9D21D3094E00A25D1412CDAC4BBBC423.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/BPs/Widgets/HUD.uasset'
+[2026.09.16-20.06.50:151][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 538.626 ms (total: 16.0 sec)
+[2026.09.16-20.06.50:439][168]LogContentValidation: Enabled validators:
+[2026.09.16-20.06.50:439][168]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-20.06.50:439][168]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.16-20.06.50:439][168]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-20.06.50:439][168]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-20.06.50:439][168]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-20.06.50:439][168]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-20.06.50:439][168]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-20.06.50:439][168]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.16-20.06.50:439][168]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.16-20.06.50:439][168]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.16-20.06.50:439][168]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.16-20.06.50:442][168]AssetCheck: /Game/BPs/Widgets/HUD Validating asset
+[2026.09.16-20.06.50:442][168]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.16-20.06.50:442][168]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.16-20.06.50:442][168]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.16-20.06.50:442][168]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.16-20.06.50:442][168]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.16-20.06.50:442][168]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.16-20.06.50:442][168]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.16-20.06.50:442][168]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.09.16-20.06.50:442][168]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.16-20.06.50:442][168]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.16-20.08.31:863][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-20.08.32:261][383]LogFileHelpers: Saving Package: /Game/BPs/Widgets/HUD
+[2026.09.16-20.08.32:261][383]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BPs/Widgets/HUD] ([2] browsable assets)...
+[2026.09.16-20.08.32:280][383]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BPs/Widgets/HUD.HUD]
+[2026.09.16-20.08.32:280][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/BPs/Widgets/HUD]
+[2026.09.16-20.08.32:280][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPs/Widgets/HUD" FILE="../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/BPs/Widgets/HUD.uasset" SILENT=true
+[2026.09.16-20.08.32:312][383]LogSavePackage: Moving output files for package: /Game/BPs/Widgets/HUD
+[2026.09.16-20.08.32:313][383]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/HUDA23935B848A60C20EAC859B18FA2B84D.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/BPs/Widgets/HUD.uasset'
+[2026.09.16-20.08.32:360][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 495.846 ms (total: 16.5 sec)
+[2026.09.16-20.08.32:652][383]LogContentValidation: Enabled validators:
+[2026.09.16-20.08.32:652][383]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-20.08.32:652][383]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.16-20.08.32:652][383]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-20.08.32:652][383]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-20.08.32:653][383]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-20.08.32:653][383]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-20.08.32:653][383]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-20.08.32:653][383]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.16-20.08.32:653][383]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.16-20.08.32:653][383]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.16-20.08.32:653][383]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.16-20.08.32:654][383]AssetCheck: /Game/BPs/Widgets/HUD Validating asset
+[2026.09.16-20.08.32:654][383]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.16-20.08.32:654][383]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.16-20.08.32:654][383]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.16-20.08.32:654][383]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.16-20.08.32:654][383]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.16-20.08.32:654][383]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.16-20.08.32:654][383]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.16-20.08.32:654][383]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.09.16-20.08.32:654][383]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.16-20.08.32:654][383]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.16-20.08.38:777][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-20.08.39:171][474]LogFileHelpers: Saving Package: /Game/BPs/Widgets/HUD
+[2026.09.16-20.08.39:172][474]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BPs/Widgets/HUD] ([2] browsable assets)...
+[2026.09.16-20.08.39:172][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/BPs/Widgets/HUD]
+[2026.09.16-20.08.39:172][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPs/Widgets/HUD" FILE="../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/BPs/Widgets/HUD.uasset" SILENT=true
+[2026.09.16-20.08.39:201][474]LogSavePackage: Moving output files for package: /Game/BPs/Widgets/HUD
+[2026.09.16-20.08.39:202][474]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/HUDA1AE9DE141BDB0E5D8D160BCC0308CE7.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/BPs/Widgets/HUD.uasset'
+[2026.09.16-20.08.39:243][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 466.012 ms (total: 17.0 sec)
+[2026.09.16-20.08.39:562][474]LogContentValidation: Enabled validators:
+[2026.09.16-20.08.39:562][474]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-20.08.39:562][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.16-20.08.39:562][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-20.08.39:562][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-20.08.39:562][474]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-20.08.39:562][474]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-20.08.39:562][474]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-20.08.39:562][474]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.16-20.08.39:562][474]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.16-20.08.39:562][474]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.16-20.08.39:562][474]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.16-20.08.39:563][474]AssetCheck: /Game/BPs/Widgets/HUD Validating asset
+[2026.09.16-20.08.39:563][474]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.16-20.08.39:563][474]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.16-20.08.39:563][474]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.16-20.08.39:565][474]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.16-20.08.39:565][474]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.16-20.08.39:565][474]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.16-20.08.39:565][474]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.16-20.08.39:565][474]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.09.16-20.08.39:565][474]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.16-20.08.39:565][474]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.16-20.09.02:685][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-20.09.03:078][821]LogFileHelpers: Saving Package: /Game/BPs/Widgets/HUD
+[2026.09.16-20.09.03:078][821]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BPs/Widgets/HUD] ([2] browsable assets)...
+[2026.09.16-20.09.03:078][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/BPs/Widgets/HUD]
+[2026.09.16-20.09.03:078][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPs/Widgets/HUD" FILE="../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/BPs/Widgets/HUD.uasset" SILENT=true
+[2026.09.16-20.09.03:105][821]LogSavePackage: Moving output files for package: /Game/BPs/Widgets/HUD
+[2026.09.16-20.09.03:106][821]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/HUDC1C81F864DBCAD02A3D02092247874CB.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/BPs/Widgets/HUD.uasset'
+[2026.09.16-20.09.03:155][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 470.543 ms (total: 17.5 sec)
+[2026.09.16-20.09.03:449][821]LogContentValidation: Enabled validators:
+[2026.09.16-20.09.03:450][821]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-20.09.03:450][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.16-20.09.03:450][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-20.09.03:450][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-20.09.03:450][821]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-20.09.03:450][821]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-20.09.03:450][821]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-20.09.03:450][821]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.16-20.09.03:450][821]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.16-20.09.03:450][821]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.16-20.09.03:450][821]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.16-20.09.03:452][821]AssetCheck: /Game/BPs/Widgets/HUD Validating asset
+[2026.09.16-20.09.03:452][821]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.16-20.09.03:452][821]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.16-20.09.03:452][821]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.16-20.09.03:452][821]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.16-20.09.03:452][821]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.16-20.09.03:452][821]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.16-20.09.03:452][821]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.16-20.09.03:452][821]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.09.16-20.09.03:452][821]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.16-20.09.03:452][821]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.16-20.09.52:173][715]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3610.742432
+[2026.09.16-20.09.52:363][720]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.16-20.09.52:364][720]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3610.894531, Update Interval: 346.462585
+[2026.09.16-20.10.57:259][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-20.10.57:598][ 70]LogFileHelpers: Saving Package: /Game/BPs/Coin_BP
+[2026.09.16-20.10.57:598][ 70]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BPs/Coin_BP] ([2] browsable assets)...
+[2026.09.16-20.10.57:735][ 70]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BPs/Coin_BP.Coin_BP]
+[2026.09.16-20.10.57:735][ 70]OBJ SavePackage: Finished generating thumbnails for package [/Game/BPs/Coin_BP]
+[2026.09.16-20.10.57:735][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPs/Coin_BP" FILE="../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/BPs/Coin_BP.uasset" SILENT=true
+[2026.09.16-20.10.57:779][ 70]LogSavePackage: Moving output files for package: /Game/BPs/Coin_BP
+[2026.09.16-20.10.57:779][ 70]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/Coin_BP16ABC32D4189E915068E42A13D6FF46A.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/BPs/Coin_BP.uasset'
+[2026.09.16-20.10.57:823][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave took 565.127 ms (total: 18.0 sec)
+[2026.09.16-20.10.58:137][ 70]LogContentValidation: Enabled validators:
+[2026.09.16-20.10.58:137][ 70]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-20.10.58:137][ 70]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.16-20.10.58:137][ 70]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-20.10.58:137][ 70]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-20.10.58:137][ 70]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-20.10.58:137][ 70]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-20.10.58:137][ 70]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-20.10.58:137][ 70]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.16-20.10.58:137][ 70]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.16-20.10.58:137][ 70]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.16-20.10.58:137][ 70]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.16-20.10.58:137][ 70]AssetCheck: /Game/BPs/Coin_BP Validating asset
+[2026.09.16-20.10.58:137][ 70]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.16-20.10.58:138][ 70]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.16-20.10.58:138][ 70]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.16-20.10.58:138][ 70]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.16-20.10.58:138][ 70]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.16-20.10.58:138][ 70]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.16-20.10.58:138][ 70]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.16-20.10.58:138][ 70]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.16-20.10.58:138][ 70]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.16-20.10.58:138][ 70]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.16-20.11.37:457][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-20.11.37:789][188]LogFileHelpers: Saving Package: /Game/BPs/Coin_BP
+[2026.09.16-20.11.37:790][188]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BPs/Coin_BP] ([2] browsable assets)...
+[2026.09.16-20.11.37:790][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/BPs/Coin_BP]
+[2026.09.16-20.11.37:790][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPs/Coin_BP" FILE="../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/BPs/Coin_BP.uasset" SILENT=true
+[2026.09.16-20.11.37:815][188]LogSavePackage: Moving output files for package: /Game/BPs/Coin_BP
+[2026.09.16-20.11.37:816][188]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/Coin_BP1B681FE3485D23C4918A7F8C8AB4569B.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/BPs/Coin_BP.uasset'
+[2026.09.16-20.11.37:859][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 401.763 ms (total: 18.4 sec)
+[2026.09.16-20.11.38:147][188]LogContentValidation: Enabled validators:
+[2026.09.16-20.11.38:147][188]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-20.11.38:147][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.16-20.11.38:147][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-20.11.38:147][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-20.11.38:147][188]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-20.11.38:147][188]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-20.11.38:147][188]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-20.11.38:147][188]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.16-20.11.38:147][188]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.16-20.11.38:147][188]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.16-20.11.38:147][188]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.16-20.11.38:148][188]AssetCheck: /Game/BPs/Coin_BP Validating asset
+[2026.09.16-20.11.38:148][188]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.16-20.11.38:148][188]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.16-20.11.38:148][188]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.16-20.11.38:148][188]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.16-20.11.38:148][188]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.16-20.11.38:148][188]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.16-20.11.38:148][188]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.16-20.11.38:148][188]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.16-20.11.38:148][188]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.16-20.11.38:148][188]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.16-20.11.42:388][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-20.11.42:770][287]LogFileHelpers: Saving Package: /Game/BPs/Widgets/HUD
+[2026.09.16-20.11.42:771][287]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BPs/Widgets/HUD] ([2] browsable assets)...
+[2026.09.16-20.11.42:771][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/BPs/Widgets/HUD]
+[2026.09.16-20.11.42:771][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPs/Widgets/HUD" FILE="../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/BPs/Widgets/HUD.uasset" SILENT=true
+[2026.09.16-20.11.42:799][287]LogSavePackage: Moving output files for package: /Game/BPs/Widgets/HUD
+[2026.09.16-20.11.42:800][287]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Saved/HUD00134EC8444A5130C7C8D38C33562118.tmp' to '../../../../../../Users/Owner/Documents/UVU/UVU-AGD-UnrealProject/MyProject/Content/BPs/Widgets/HUD.uasset'
+[2026.09.16-20.11.42:846][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 458.098 ms (total: 18.9 sec)
+[2026.09.16-20.11.43:163][287]LogContentValidation: Enabled validators:
+[2026.09.16-20.11.43:163][287]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-20.11.43:163][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.16-20.11.43:163][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-20.11.43:163][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-20.11.43:163][287]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-20.11.43:163][287]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-20.11.43:163][287]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-20.11.43:163][287]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.16-20.11.43:163][287]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.16-20.11.43:163][287]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.16-20.11.43:163][287]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.16-20.11.43:164][287]AssetCheck: /Game/BPs/Widgets/HUD Validating asset
+[2026.09.16-20.11.43:164][287]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.16-20.11.43:164][287]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.16-20.11.43:164][287]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.16-20.11.43:164][287]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.16-20.11.43:164][287]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.16-20.11.43:164][287]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.16-20.11.43:164][287]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.16-20.11.43:164][287]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.09.16-20.11.43:164][287]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.16-20.11.43:164][287]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.16-20.11.51:221][406]LogBlueprint: Compiling Blueprint '/Game/BPs/Coin_BP.Coin_BP'
+[2026.09.16-20.11.51:475][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2026.09.16-20.12.01:733][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2026.09.16-20.12.01:797][526]LogStall: Shutdown...
+[2026.09.16-20.12.01:805][526]LogStall: Shutdown complete.
+[2026.09.16-20.12.01:881][526]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.09.16-20.12.01:881][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.16-20.12.02:144][526]LogSlate: Window 'HUD' being destroyed
+[2026.09.16-20.12.02:193][526]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.09.16-20.12.02:194][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.16-20.12.02:217][526]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.09.16-20.12.02:217][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.16-20.12.02:312][526]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.16-20.12.02:312][526]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.09.16-20.12.02:313][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.16-20.12.02:372][526]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2026.09.16-20.12.03:003][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2026.09.16-20.12.03:083][526]Cmd: QUIT_EDITOR
+[2026.09.16-20.12.03:083][527]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.09.16-20.12.03:096][527]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.09.16-20.12.03:099][527]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.09.16-20.12.03:099][527]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.09.16-20.12.03:115][527]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.09.16-20.12.03:116][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.16-20.12.03:116][527]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.09.16-20.12.03:118][527]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.09.16-20.12.03:139][527]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.09.16-20.12.03:195][527]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.09.16-20.12.03:217][527]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.09.16-20.12.03:217][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.16-20.12.03:231][527]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.09.16-20.12.03:231][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.16-20.12.03:241][527]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.09.16-20.12.03:241][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.16-20.12.03:249][527]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.09.16-20.12.03:249][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.16-20.12.03:267][527]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.09.16-20.12.03:272][527]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.09.16-20.12.03:573][527]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.09.16-20.12.03:573][527]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.09.16-20.12.03:573][527]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.09.16-20.12.03:573][527]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.09.16-20.12.03:574][527]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.09.16-20.12.03:603][527]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.16-20.12.03:640][527]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.09.16-20.12.03:640][527]LogAudio: Display: Audio Device Manager Shutdown
+[2026.09.16-20.12.03:783][527]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.09.16-20.12.03:805][527]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.09.16-20.12.03:805][527]LogExit: Preparing to exit.
+[2026.09.16-20.12.04:029][527]LogDerivedDataCache: C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:31.177 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16389 files in 16449 folders with total size 329 MiB.
+[2026.09.16-20.12.04:333][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2026.09.16-20.12.04:346][527]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.16-20.12.05:075][527]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.09.16-20.12.05:076][527]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 1 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.09.16-20.12.05:083][527]LogEditorDataStorage: Deinitializing
+[2026.09.16-20.12.05:088][527]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.09.16-20.12.05:088][527]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.09.16-20.12.05:088][527]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.09.16-20.12.05:088][527]LogEditorDataStorage: Resetting TEDS Core.
+[2026.09.16-20.12.05:097][527]LogEditorDataStorage: Reset TEDS Core.
+[2026.09.16-20.12.05:097][527]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.09.16-20.12.05:382][527]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.09.16-20.12.05:437][527]LogExit: Editor shut down
+[2026.09.16-20.12.05:452][527]LogExit: Transaction tracking system shut down
+[2026.09.16-20.12.05:715][527]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.09.16-20.12.05:715][527]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.09.16-20.12.05:748][527]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.09.16-20.12.05:748][527]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.09.16-20.12.06:065][527]LogExit: Object subsystem successfully closed.
+[2026.09.16-20.12.06:154][527]LogShaderCompilers: Display: Exiting ShaderCompilingThread
+[2026.09.16-20.12.06:481][527]LogObjectProfiler: Shutdown
+[2026.09.16-20.12.06:481][527]LogMemoryProfiler: Shutdown
+[2026.09.16-20.12.06:481][527]LogNetworkingProfiler: Shutdown
+[2026.09.16-20.12.06:481][527]LogLoadingProfiler: Shutdown
+[2026.09.16-20.12.06:481][527]LogTimingProfiler: Shutdown
+[2026.09.16-20.12.06:483][527]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.09.16-20.12.06:483][527]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.09.16-20.12.06:483][527]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDCameraTracesExtension] ...
+[2026.09.16-20.12.06:483][527]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDParticleExtraDataExtension] ...
+[2026.09.16-20.12.06:483][527]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FPerformanceMetricsExtension] ...
