@@ -26,3 +26,13 @@ UnityProject/Recordings/
 *.uproject
 
 MyProject/Saved/Autosaves/
+
+MyProject/Saved/Logs/
+
+MyProject/Saved/
+
+MyProject/Intermediate/CachedAssetRegistry/
+
+MyProject/Intermediate/CachedAssetRegistryDiscovery.bin
+
+MyProject/Intermediate/
